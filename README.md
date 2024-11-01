@@ -1,5 +1,6 @@
 This program is designed for cleaning and optimizing a computer through a simple interface. Here’s what it does:
 
+![Screenshot](https://github.com/PoweRFullGG/SPEEDPC/blob/main/Screenshot_234.jpeg)
 
 Clears temporary folders, cache, recycle bin, and downloads. 
 
